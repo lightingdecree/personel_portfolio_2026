@@ -3,21 +3,31 @@ Personal Portfolio Website:-
 This is my personal portfolio website, built as part of the Web Development project at Bosscoder School of Technology.
 
 
+
 About the Project:-
 
 The website introduces me and shows my education, skills, projects, hobbies and achievements in one page. It is made using only HTML and CSS.
 
 
+
 Sections:-
 
   1.Home
+  
   2.About Me
+  
   3.Education
+  
   4.Skills
+  
   5.Projects
+  
   6.Hobbies and Interests
+  
   7.Achievements
+  
   8.Contact
+
 
 
 Technologies Used:-
@@ -29,6 +39,7 @@ Technologies Used:-
   3.Git and GitHub
 
   4.Visual Studio Code
+
 
 
 Features:-
@@ -44,6 +55,7 @@ Features:-
   5.Responsive layout for laptop, tablet and mobile screens
 
 
+
 Project Structure:-
 
   personel_portfolio_2026
@@ -53,6 +65,7 @@ Project Structure:-
   └── README.md
 
 
+
 How to Run:-
 
   1.Download or clone this repository.
@@ -60,6 +73,7 @@ How to Run:-
   2.Open the folder in Visual Studio Code.
 
   3.Open index.html in any web browser.
+
 
 
 Contact:-
