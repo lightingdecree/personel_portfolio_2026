@@ -10,69 +10,69 @@ The website introduces me and shows my education, skills, projects, hobbies and 
 
 Sections:-
 
-Home
+  1.Home
 
-About Me
+  2.About Me
 
-Education
+  3.Education
 
-Skills
+  4.Skills
 
-Projects
+  5.Projects
 
-Hobbies and Interests
+  6.Hobbies and Interests
 
-Achievements
+  7.Achievements
 
-Contact
+  8.Contact
 
 
 Technologies Used:-
 
-HTML5
+  1.HTML5
 
-CSS3 (flexbox and grid)
+  2.CSS3 (flexbox and grid)
 
-Git and GitHub
+  3.Git and GitHub
 
-Visual Studio Code
+  4.Visual Studio Code
 
 
 Features:-
 
-Navigation bar with smooth scrolling to each section
+  1.Navigation bar with smooth scrolling to each section
 
-Skill bars for showing skill levels
+  2.Skill bars for showing skill levels
 
-Project and achievement cards
+  3.Project and achievement cards
 
-Contact form with built-in validation
+  4.Contact form with built-in validation
 
-Responsive layout for laptop, tablet and mobile screens
+  5.Responsive layout for laptop, tablet and mobile screens
 
 
 Project Structure:-
 
-personel_portfolio_2026
-├── index.html
-├── style.css
-├── images
-└── README.md
+  personel_portfolio_2026
+  ├── index.html
+  ├── style.css
+  ├── images
+  └── README.md
+
 
 How to Run:-
 
+  1.Download or clone this repository.
 
-Download or clone this repository.
+  2.Open the folder in Visual Studio Code.
 
-Open the folder in Visual Studio Code.
-
-Open index.html in any web browser.
+  3.Open index.html in any web browser.
 
 
 Contact:-
 
-Name: Chiranth C R
+  Name: Chiranth C R
 
-Email: chiranthramesh136@gmail.com
+  Email: chiranthramesh136@gmail.com
 
-GitHub: lightingdecree
+  GitHub: lightingdecree
