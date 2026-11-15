@@ -40,6 +40,9 @@ Open the folder in Visual Studio Code.
 Open index.html in any web browser.
 
 Contact:-
+
 Name: Chiranth C R
+
 Email: chiranthramesh136@gmail.com
+
 GitHub: lightingdecree
