@@ -9,6 +9,7 @@ The website introduces me and shows my education, skills, projects, hobbies and 
 
 
 Sections:-
+
   1.Home
   2.About Me
   3.Education
